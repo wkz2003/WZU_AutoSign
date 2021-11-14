@@ -2,6 +2,7 @@ import requests
 import json
 import time
 
+# url抓一下最全的那个问卷页面好像是，反正类似下面的链接
 url = "https://lightapp.wzu.edu.cn/api/questionnaire/questionnaire/getQuestionNaireList?sch_code=wzu&stu_code....."
 
 headers = {
